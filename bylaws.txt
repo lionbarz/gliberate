@@ -1,15 +1,21 @@
 Organization Bylaws
 
 Name:
-gliberate
+Lebanese-American Diaspora
 
 Mission:
-Create a tool for group decision-making and governance.
+- Represent Lebanese-Americans
 
-Equal partners:
+President:
 - Mohamed Fakhreddine
-- Ziad Alame
-- Abdallah
+
+Members:
+- Mohamed Fakhreddine
+- Alain Mina
+- Adi El-Hajj Ahmad
 
 Admendments:
-Any changes to the bylaws must be made unanimously.
+Any changes must be made unanimously.
+
+Procedures:
+The club is governed by Robert's Rules of Order.
